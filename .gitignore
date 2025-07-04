@@ -1,0 +1,26 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore environment files
+.env
+
+# Ignore vendor (if you use Composer)
+vendor/
+
+# Ignore node_modules (if you use Node.js for frontend)
+node_modules/
+
+# Ignore uploaded files (optional, if you don't want to track user uploads)
+backend - online education/project/uploaded_files/ 
